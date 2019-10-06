@@ -1,7 +1,10 @@
 class Prueba{
   
   public static void main(String args){
-    System.out.println("Hola mundo");
+    int a=5;
+    int b=6;
+    
+    System.out.println("Hola mundo"+(a+b));
   }
 
 }
